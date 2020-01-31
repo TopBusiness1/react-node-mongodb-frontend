@@ -1,8 +1,29 @@
 # case-tracker-client
 A case tracker application for client 
 
-npm install
+## Description
 
-npm start
+react source code for reacr-node-mongodb
 
-react source code for front end
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+
+```
+
+## build
+
+```build
+# unit tests
+$ npm run build
+
+```
+
