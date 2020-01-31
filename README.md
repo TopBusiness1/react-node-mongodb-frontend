@@ -14,6 +14,9 @@ $ npm install
 ## Running the app
 
 ```bash
+
+# development
+$ npm start
 # development
 $ npm run start
 
@@ -21,6 +24,9 @@ $ npm run start
 
 ## build
 
+```build
+# unit tests
+$ npm build
 ```build
 # unit tests
 $ npm run build
